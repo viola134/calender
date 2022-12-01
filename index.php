@@ -19,8 +19,7 @@
     }
     </style>
 </head>
-<body>
-</body>
+<body></body>
 </html>
 <?php
 $today = date("l d F");
